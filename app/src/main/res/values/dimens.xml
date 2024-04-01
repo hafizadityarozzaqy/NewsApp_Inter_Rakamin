@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bottom_app_bar_height">12</dimen>
+    <dimen name="bottom_app_bar_padding">12</dimen>
+    <dimen name="medium_padding">12</dimen>
+    <dimen name="vertical_padding">12</dimen>
+    <dimen name="horizontal_padding">12</dimen>
+    <dimen name="all_padding">0</dimen>
+    <dimen name="header_icon_padding">12</dimen>
+    <dimen name="header_icon_size">12</dimen>
+    <dimen name="header_spacer_padding">1</dimen>
+    <dimen name="icon_button_size">5</dimen>
+    <dimen name="all_paddin">32</dimen>
+</resources>
